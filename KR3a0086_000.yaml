@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR3a0086/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部一
+  hash: sha256:0cca43e587e9c707aa7b5087f084e976ac80456101f009f4c0e78ad8fcc2f097
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0086_WYG_000-1a, image: WYG0714/WYG0714-0451a.png}
+body:
+  text: 士翼儒家類提要臣等謹案士翼三卷明崔銑撰銑字子鍾又字仲鳬號洹野安陽人𢎞治乙丑進士官至南京禮部右侍郎事蹟具明史儒林傳是書凡三卷名曰述言皆語録之類又嘗作續士翼草稿未成而歿此書自序謂退居相臺十祀非聖人之志不存非翼經之文不閲乃劄記所明稍修章句名曰士翼蓋以輔彞典也其間如論髙宗夢傳說事涉於怪誕韓子原道蓋先乎養二氏之徒之繁由君無以養而安之也又云談理至宋人而精然而滋蔓講學至宋人而切然而即空又曰漢唐之小人易見宋之小人難知漢唐之君子可信宋之君子當考所論頗為有見非漫為空言者比然以蕭何之薦曹參為克己歸仁盧懷慎之讓姚崇為一個臣之有容雖意有所寓亦未免品題失當矣乾隆四十三年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀士翼原序銑也退處相臺之十祀非聖人之志不存非翼經之文不閲省已履事準古驗今道雖晚聞愚有一得守之既確居之亦安已乃劄記所明稍修章句發揮性道訓訂經史或申正理或駁陂見名曰士翼蓋以輔彛典也自愧窮居擬博問而躬行猶未能云爾嘉靖甲午嘉平節崔銑仲鳧序
+  hash: sha256:b5e0906b341baed6f4e6b9b16648315104fd6bc34125e65e23b1afb99b7497e8
+  markers:
+  - {type: page-break, offset: 300, content: '', id: KR3a0086_WYG_000-3a, image: WYG0714/WYG0714-0452c.png}
+metadata:
+  title: 士翼
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:00:33.122736'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3a0086/KR3a0086_000.txt
+hash: sha256:9c7ce6e69aa7d6288426d590a94170fd2f6f5de537d8af0ba06a03318b38282e
